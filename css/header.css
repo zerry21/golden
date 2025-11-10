@@ -53,7 +53,7 @@
   align-items: center;
   justify-content: flex-end;
   gap: 30px;
-  margin-left: 336px;
+  margin-left: 300px;
 }
 
 .nav li {
@@ -140,7 +140,7 @@ li.search a {
   cursor: pointer;
   gap: 10px;
   margin-top: 20px;
-  margin-left: 1404px;
+  margin-left: 1435px;
 }
 
 /* 체크박스 숨기기 */
